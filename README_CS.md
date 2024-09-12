@@ -1,5 +1,7 @@
 # Projekt QA a bezpečnostního testování (Plánovaný)
 
+[🇬🇧 English version](https://github.com/painter99/QA-and-Security-Testing-Project/blob/main/README.md)
+
 ## Přehled
 Tento projekt představuje komplexní plánovanou cestu do oblasti zajišťování kvality (QA) a bezpečnostního testování, nabízející strukturovaný 10týdenní přístup k učení a aplikaci klíčových konceptů v testování softwaru. Zaměřuje se na rozvoj praktických dovedností v manuálním a automatizovaném testování webových aplikací s důrazem na bezpečnostní principy. Tento projekt je navržen tak, aby demonstroval mé odhodlání přejít do oblasti IT a ukázal můj potenciál budoucím zaměstnavatelům.
 
